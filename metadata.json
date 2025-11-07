@@ -1,0 +1,7 @@
+{
+  "name": "Ultra Imobiliária AI Chatbot",
+  "description": "An intelligent chatbot to help users find their dream properties, providing personalized service and information about luxury real estate listings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
